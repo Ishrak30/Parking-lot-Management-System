@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525236495 source:c:\users\dr.nujhat\desktop\final project\my project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
